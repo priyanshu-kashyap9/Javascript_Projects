@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;  
+  }
+  .body{
+      background-color: lightblue;
+  }
+  .span{
+      display: block;
+  }
+  
+  .canvas{
+      margin: 100px auto 100px;
+      width: 80%;
+      text-align: center;
+  }
+  .canvas h2{
+      size: 50px bold;
+      line-height: 50px;
+  }
+  .button{
+      width: 100px;
+      height: 100px;
+      border: solid black 3px;
+      display: block;
+      display: inline-block;
+  }
+  #grey{
+      background: grey;
+  }
+  #yellow{
+      background: yellow;
+  }
+  #green{
+      background: green;
+  }
+  #red{
+      background: red;
+  }
