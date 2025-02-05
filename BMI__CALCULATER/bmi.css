@@ -1,0 +1,18 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: skyblue;
+}
+.naviation h1{
+    position: relative;
+    text-align: center;
+    text-size-adjust: 50%;
+}
+.container{
+    position: relative;
+    left: 20%;
+    top:  50%;
+}
+
